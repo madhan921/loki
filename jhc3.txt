@@ -1,3 +1,4 @@
 hlo loki
 about git
 git learnt
+git is a fast version
